@@ -12,7 +12,7 @@ U0 Main()
     monkey.age      = 85;
     "Name: %s\n",   monkey.name;
     "Agency: %s\n", monkey.agency;
-    "Age: %s\n",    monkey.age;
+    "Age: %d\n",    monkey.age;
 }
 
 Main();
