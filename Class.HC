@@ -7,7 +7,7 @@ public class Glowie
 
 U0 Main()
 {
-    monkey.name     = "Porter Gross";
+    monkey.name     = "Porter Goss";
     monkey.agency   = "CIA";
     monkey.age      = 85;
     "Name: %s\n",   monkey.name;
